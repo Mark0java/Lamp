@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1360a3-e6a1-4be5-8427-1d64fea4b63c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Server/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/migrations/0002_indicators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/migrations/0003_on_off.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/migrations/0004_auto_20181022_2258.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/static/css/blog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/templates/blog/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/templates/blog/post_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/templates/blog/post_edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/templates/blog/post_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mysite/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mysite/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mysite/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mysite/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projector1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/projector1/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +11,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/projector1$testson.coverage" NAME="testson Coverage Results" MODIFIED="1544013068467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/projector1$newtons_method.coverage" NAME="newtons_method Coverage Results" MODIFIED="1544082262770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Чисельні методи/Lab_5" />
+    <SUITE FILE_PATH="coverage/projector1$testson.coverage" NAME="testson Coverage Results" MODIFIED="1544013068467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -70,8 +42,9 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -134,11 +107,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lamp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -146,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lamp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
+            <state relative-caret-position="2142">
+              <caret line="169" column="12" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -155,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projector1/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="110">
+              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -167,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lamp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="272">
               <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
@@ -183,7 +156,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -194,9 +167,9 @@
         <option value="$PROJECT_DIR$/testson.py" />
         <option value="$PROJECT_DIR$/../../../Чисельні методи/Lab_5/newtons_method.py" />
         <option value="$PROJECT_DIR$/lamp/models.py" />
-        <option value="$PROJECT_DIR$/projector1/settings.py" />
         <option value="$PROJECT_DIR$/lamp/urls.py" />
         <option value="$PROJECT_DIR$/lamp/views.py" />
+        <option value="$PROJECT_DIR$/projector1/settings.py" />
       </list>
     </option>
   </component>
@@ -206,11 +179,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="y" value="46" />
-    <option name="width" value="974" />
-    <option name="height" value="1041" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="y" value="45" />
+    <option name="width" value="975" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,6 +212,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,10 +339,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="46" width="974" height="1041" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1619256" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22348994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -383,13 +356,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33296582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33049646" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.1590604" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.073027715" />
@@ -466,41 +439,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Чисельні методи/Lab_5/newtons_method.py">
+    <entry file="file://$PROJECT_DIR$/../../../Чисельні методи/Lab_5/newtons_method.py" />
+    <entry file="file://$PROJECT_DIR$/lamp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projector1/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="85">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lamp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
+        <state relative-caret-position="2142">
+          <caret line="169" column="12" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lamp/urls.py">
+    <entry file="file://$PROJECT_DIR$/lamp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projector1/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="23" />
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
         </state>
       </provider>
     </entry>

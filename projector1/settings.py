@@ -26,7 +26,7 @@ SECRET_KEY = '7ufaq&*d*4189uhg^#da7-8=)1%a(@d!%3!n=#izu+x*k9nxn-'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    # "smartmark01.herokuapp.com",
+    "smartmark01.herokuapp.com",
     "localhost",
     "127.0.0.1",
     "299ece63.ngrok.io",
